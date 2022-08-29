@@ -1,3 +1,4 @@
+/// model is a mongoose schema
 const mongoose = require('mongoose');
 const todoTaskSchema = new mongoose.Schema({
 title: {
